@@ -16,3 +16,7 @@ https://www.beautiful.ai/player/-N2swpiRM7lMSnK8861b/My-First-Presentation
          " width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Flower"></img>
 
 https://pixabay.com/ko/photos/%eb%b6%84%ed%99%8d-%eb%b2%9a%ea%bd%83-%ea%bd%83%eb%93%a4-%ec%a7%80%ec%a0%90-324175/
+
+https://pixabay.com/ko/photos/%eb%82%98%eb%ac%b4-%ea%bd%83%eb%93%a4-%eb%aa%a9%ec%b4%88%ec%a7%80-%eb%82%98%eb%ac%b4-%ec%a4%84%ea%b8%b0-276014/
+
+
